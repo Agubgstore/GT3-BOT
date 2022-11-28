@@ -56,10 +56,23 @@ npm start
 
 ## GTPS Features
 
+|     Update Info         |  Availability  |
+| :---------------------: | :------------: |
+| Give Legend Title           |       TODO      |
+| Give G4G Title           |       TODO      |
+| Give Mentor Title           |       TODO      |
+| Give Doctor Title           |       TODO      |
+| Give Legend Title           |       TODO      |
+
 |     Server Info         |  Availability  |
 | :---------------------: | :------------: |
 | Server Status           |       ✔️      |
-| Check Info Player          |       ✔️      |
+| Check Info Players          |       ✔️      |
+| Check Info Server          |       ✔️      |
+| Check Info Worlds          |       ✔️      |
+| Check Info Guils          |       ✔️      |
+| Check Worlds          |       ✔️      |
+| Check Guilds          |       ✔️      |
 
 |     Owner Command     | Availability |
 | :-------------------: | :----------: |
@@ -71,5 +84,9 @@ npm start
 | Give DEV       |      ✔️      |
 | Give Level       |      ✔️      |
 | Give Gems       |      ✔️      |
+| Take Level       |      ✔️      |
+| Take Gems       |      ✔️      |
+| Delete Worlds       |      ✔️      |
+| Delete Players       |      ✔️      |
 | Change Username      |      ✔️      |
 | Change Password     |      ✔️      |
