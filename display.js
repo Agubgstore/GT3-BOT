@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 exports.menubot = (prefix, pushname) => {
-	return `Hai kak *${pushname}* 👋😁
+	return `Mau liat bokep *${pushname}* 👋😁
    
 ╔════════
 ╠══ *GROUP MENU*
