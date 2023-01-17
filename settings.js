@@ -2,12 +2,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285859202162']
-global.ownerName = 'Ferlito'
-global.packname = 'NC BOT'
-global.author = 'Ferlito | 62 858 592 021 62' //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'sesi'
-global.footerbot = 'NC BOT 2022'
+global.ownerNumber = ['6285730659421''6288708212091']
+global.ownerName = 'AgungGt and Seven'
+global.packname = 'GTLD BOT'
+global.author = 'GTLD | 62 857 306 594 21' //Ilangin Prefix Yang '' Kalau Gamau No Prefix
+global.sessionName = 'session'
+global.footerbot = 'GTLD private server'
 
 //Message Nya Ubah Disini
 global.mess = {
@@ -16,7 +16,7 @@ botAdmin: 'Bot Not Admin!',
 botOwner: 'You Are Not My Owner!',
 group: 'Only Group!',
 private: 'Only Private Chat',
-wait: 'Loading...',
+wait: 'Sabar ya kontol...',
 done: 'Done!'
 }
 
